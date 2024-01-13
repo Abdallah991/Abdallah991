@@ -2,7 +2,7 @@
 :star:Full-stack Engineer and Tech Mentor:star:
 * Software Engineer with over five years experience.
 * Over 500,000 users.
-* Building DIGITAL PRODUCTS on the Web & Mobile.
+* Building digital products on the Web & Mobile.
 * Native and hybrid mobile development.
 * AWS.
 
