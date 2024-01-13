@@ -7,7 +7,7 @@ I build DIGITAL PRODUCTS on the Web & Mobile.
 
 
 # Contact
-[👩‍💻] <a href="https://octopist.com/">Portfolio</a>
+[👩‍💻] <a href="https://octopist.com/" target="_blank">Portfolio</a>
 
 
 [![](https://raw.githubusercontent.com/Abdallah991/Abdallah991/master/profile-summary-card-output/kacho_ga/0-profile-details.svg)](https://github.com/Abdallah991/github-profile-summary-cards)
