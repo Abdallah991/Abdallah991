@@ -1,7 +1,5 @@
 # Hello, I am Abdallah
-<br/>
 :star:Full-stack Engineer and Tech Mentor:star:
-<br/>
 * Software Engineer with over five years experience.
 * Over 500,000 users.
 * Building DIGITAL PRODUCTS on the Web & Mobile.
