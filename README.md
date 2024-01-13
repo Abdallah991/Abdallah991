@@ -8,7 +8,6 @@
 
 
 # Contact
-<br/>
 👩‍💻 <a href="https://octopist.com/" target="_blank">Portfolio</a><br/>
 🔗 <a href="https://www.linkedin.com/in/abdullaalathamnah/" target="_blank">LinkedIn</a><br/>
 📨 <a href="mailto: alathamneh.abdallah@gmail.com" target="_blank">Email</a><br/>
