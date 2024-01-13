@@ -1,6 +1,7 @@
 # Hello, I am Abdallah
+<br/>
 :star:Full-stack Engineer and Tech Mentor:star:
-
+<br/>
 * Software Engineer with over five years experience.
 * Over 500,000 users.
 * Building DIGITAL PRODUCTS on the Web & Mobile.
@@ -9,9 +10,11 @@
 
 
 # Contact
-👩‍💻 <a href="https://octopist.com/" target="_blank">Portfolio</a>__
-🔗 <a href="https://www.linkedin.com/in/abdullaalathamnah/" target="_blank">LinkedIn</a>__
-📨 <a href="mailto: alathamneh.abdallah@gmail.com" target="_blank">Email</a>__
+<br/>
+👩‍💻 <a href="https://octopist.com/" target="_blank">Portfolio</a><br/>
+🔗 <a href="https://www.linkedin.com/in/abdullaalathamnah/" target="_blank">LinkedIn</a><br/>
+📨 <a href="mailto: alathamneh.abdallah@gmail.com" target="_blank">Email</a><br/>
+<br/>
 
 
 
