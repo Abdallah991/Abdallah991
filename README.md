@@ -20,4 +20,3 @@
 [![](https://raw.githubusercontent.com/Abdallah991/Abdallah991/master/profile-summary-card-output/kacho_ga/1-repos-per-language.svg)](https://github.com/Abdallah991/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Abdallah991/Abdallah991/master/profile-summary-card-output/kacho_ga/2-most-commit-language.svg)](https://github.com/Abdallah991/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Abdallah991/Abdallah991/master/profile-summary-card-output/kacho_ga/3-stats.svg)](https://github.com/Abdallah991/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Abdallah991/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/Abdallah991/github-profile-summary-cards)
 
-[More Info](https://github.com/Abdallah991/github-profile-summary-cards)
