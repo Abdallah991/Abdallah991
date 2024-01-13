@@ -9,9 +9,9 @@
 
 
 # Contact
-👩‍💻 <a href="https://octopist.com/" target="_blank">Portfolio</a>
-🔗 <a href="https://www.linkedin.com/in/abdullaalathamnah/" target="_blank">LinkedIn</a>
-📨 <a href="mailto: alathamneh.abdallah@gmail.com" target="_blank">Email</a>
+👩‍💻 <a href="https://octopist.com/" target="_blank">Portfolio</a>__
+🔗 <a href="https://www.linkedin.com/in/abdullaalathamnah/" target="_blank">LinkedIn</a>__
+📨 <a href="mailto: alathamneh.abdallah@gmail.com" target="_blank">Email</a>__
 
 
 
