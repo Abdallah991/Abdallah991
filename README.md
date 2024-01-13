@@ -1,13 +1,11 @@
 # Hello, I am Abdallah
+:star:Full-stack Engineer and Tech Mentor:star:
 
-:star:Full-stack Engineer and Tech Mentor :star:
+#Experience
+I am a Software Engineer with over five years experience.
+Over 500,000 users.
+I build DIGITAL PRODUCTS on the Web & Mobile.
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
-
-```To create your profile README you need to name the repo as your username```
-
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
 
 [![](https://raw.githubusercontent.com/Abdallah991/Abdallah991/master/profile-summary-card-output/kacho_ga/0-profile-details.svg)](https://github.com/Abdallah991/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Abdallah991/Abdallah991/master/profile-summary-card-output/kacho_ga/1-repos-per-language.svg)](https://github.com/Abdallah991/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Abdallah991/Abdallah991/master/profile-summary-card-output/kacho_ga/2-most-commit-language.svg)](https://github.com/Abdallah991/github-profile-summary-cards)
