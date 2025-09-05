@@ -1,9 +1,7 @@
 # Hello, I am Abdallah
 :star:Experienced Full-stack Engineer:star:
-* Software Engineer with over five years experience.
-* Over 500,000 users.
+* Software Engineer with over seven years experience.
 * Building digital products on the Web & Mobile.
-* Native and hybrid mobile development.
 * AWS.
 
 
